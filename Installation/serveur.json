@@ -1,0 +1,7 @@
+{
+  "host" : "sgbd-eleves.domensai.ecole",
+  "port" : "5432",
+  "database" : "id1524",
+  "user": "id1524",
+  "password" : "id1524"
+ }
